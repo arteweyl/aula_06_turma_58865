@@ -1,1 +1,1 @@
-aula 1 utilizamos a função de saída built in print aaaaaa
+aula 1 utilizamos a função de saída built in print, e falamos o histórico da computação.
